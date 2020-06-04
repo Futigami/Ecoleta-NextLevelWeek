@@ -1,0 +1,26 @@
+{
+  "name": "Ecoleta-NextLevelWeek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Futigami/Ecoleta-NextLevelWeek.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Futigami/Ecoleta-NextLevelWeek/issues"
+  },
+  "homepage": "https://github.com/Futigami/Ecoleta-NextLevelWeek#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
